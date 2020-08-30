@@ -4,13 +4,14 @@ It was given this name because the image is processed only once compared to prev
 
 Basic YOLO is capable of detecting 80 labels.
 
-In this article, we will examine how YOLO performs image recognition on these 80 labels.
+In this verification, we will examine how YOLO performs image recognition on these 80 labels.
 
-In this verification, "toaster" and "hair drier" were not recognized.
-
-The YOLO used is ver.3.
+"toaster" and "hair drier" were not recognized.
 
 Please verify it, too.
+
+note : I used YOLO ver.3.
+
 
 
 # Darknet
